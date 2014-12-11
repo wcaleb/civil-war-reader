@@ -107,16 +107,15 @@ modify them for yourself, read on.
 
 ## How the Handouts are Made
 
-In recent years, I have been converting most of my handouts into the
-plain-text Markdown format. I then use [Pandoc][] to convert them into
-nicely formatted PDF files that I can print and post for students. This
-semester, I also began to use a template, included in this repo, to
-produce handouts modeled on the design principles taught by [Edward
-Tufte][]. The template uses the
-`[tufte-latex](http://code.google.com/p/tufte-latex/)` class to produce
-handouts that have a wide right margin for notes. By default, I also add
-line numbers to all the handouts, so that I and my students can refer to
-specific lines. Images can also be floated in the margins.
+In recent years, I have been converting most of my handouts into the plain-text
+Markdown format. I then use [Pandoc][] to convert them into nicely formatted
+PDF files that I can print and post for students. This semester, I also began
+to use a template, included in this repo, to produce handouts modeled on the
+design principles taught by [Edward Tufte][]. The template uses the
+[tufte-latex](http://code.google.com/p/tufte-latex/) class to produce handouts
+that have a wide right margin for notes. By default, I also add line numbers to
+all the handouts, so that I and my students can refer to specific lines. Images
+can also be floated in the margins.
 
 ## How to Modify the Handouts
 
