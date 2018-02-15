@@ -31,8 +31,6 @@ Gen -
 *Source: Gilder Lehrman Collection Item 0035, available online at*\
 <http://gilderlehrman.org/history-by-era/american-civil-war/resources/surrender-robert-e-lee-1865>
 
-# Notes
-
 [^1]: Appomattox Court House was the site of Lee's surrender to United
     States forces.
 
