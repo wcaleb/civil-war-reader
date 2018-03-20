@@ -65,6 +65,12 @@ handouts. The current handouts include:
     expectations regarding emancipation, as well as the challenges they
     faced.
 
+-   **1865-jourdon-anderson-letter.pdf**
+
+    An open letter from a formerly enslaved man to his former owner
+    in Tennessee, demanding wages and reparations as a condition for 
+    any return to Nashville.
+
 -   **1865-lee-surrender-general-orders.pdf**
 
     Robert E. Lee's General Orders No. 9, issued to his army after the
@@ -92,6 +98,11 @@ handouts. The current handouts include:
     Thomas Knox wrote a memoir that is good for helping students to
     compare and contrast Northern ideas of "free labor" with
     freedpeople's understandings of emancipation.
+
+-   **1867-hawkins-wilson-letter**
+
+    A letter from a formerly enslaved man in Galveston, Texas, who
+    is trying to locate relatives in Virginia.
 
 -   **1878-douglass-on-civil-war-memory.pdf**
 -   **1904-gordon-on-civil-war-memory.pdf**
