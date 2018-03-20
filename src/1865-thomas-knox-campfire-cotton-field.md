@@ -50,10 +50,7 @@ punishment. They expected, further, that their families would not be
 separated, and that they could be allowed to acquire property for
 themselves. I know there were many negroes in the South who expected
 they would neither toil nor spin after being set free, but the belief
-was by no means universal. The story of the negro at Vicksburg, who
-expected his race to assemble in New York after the war, "and have white
-men for niggers," is doubtless true, but it would find little credence
-with the great majority of the freedmen of the South.
+was by no means universal. [...]
 
 The schedule of wages, as established by the commissioners, was read and
 explained. The negroes were to be furnished with house-rent, rations,
@@ -113,13 +110,7 @@ The matter was fully explained, and I am confident all our auditors
 understood it. Those that remained obstinate had an eye to their
 personal interests. Those who had been sick, idle, absent, or disabled,
 were desirous of liberal gifts, while the industrious were generally in
-favor of the new system, or made no special opposition to it.
-
-One negro, who had been in our employ two weeks, and whose whole labor
-in that time was less than four days, thought he deserved a hundred
-dollars' worth of presents, and compensation in money for a fortnight's
-toil. All were inclined to value their services very highly; but there
-were some whose moderation knew no bounds.
+favor of the new system, or made no special opposition to it. [...]
 
 A difficulty arose on account of certain promises that had been made to
 the negroes by the owner of the plantation, long before our arrival.
